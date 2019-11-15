@@ -11,7 +11,7 @@
 
 ![](demo.gif)
 
-**Screen-shot**
+
 ![Alt text](/screenshot/Screenshot_1.jpg)
 
 ![Alt text](/screenshot/Screenshot_2.jpg)
