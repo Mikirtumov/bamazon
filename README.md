@@ -12,11 +12,11 @@
 ![](demo.gif)
 
 **Screen-shot**
-![Results](/screenshot/Screenshot_1.JPG)
+![Alt text](/screenshot/Screenshot_1.jpg)
 
-![Results](/screenshot/Screenshot_2.JPG)
+![Alt text](/screenshot/Screenshot_2.jpg)
 
-![Results](/screenshot/Screenshot_3.JPG)
+![Alt text](/screenshot/Screenshot_3.jpg)
 
 ## TECHNOLOGIES USED
 * Javascript
