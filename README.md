@@ -12,11 +12,11 @@
 ![](demo.gif)
 
 **Screen-shot**
-![Results](/screenshot/Screenshot_1.PNG)
+![Results](/screenshot/Screenshot_1.JPG)
 
-![Results](/screenshot/Screenshot_2.PNG)
+![Results](/screenshot/Screenshot_2.JPG)
 
-![Results](/screenshot/Screenshot_3.PNG)
+![Results](/screenshot/Screenshot_3.JPG)
 
 ## TECHNOLOGIES USED
 * Javascript
