@@ -7,7 +7,7 @@
 ## ABOUT THE APP
 `Bamazon` is a command line node app that takes in orders from customers and depletes stock from the store's inventory.
 
-## HOW TO USE LIRI
+## HOW TO USE BAMAZON
 
 ![](demo.gif)
 
